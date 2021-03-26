@@ -49,3 +49,10 @@ Write a program that gets an input from the user and returns the factorial.
 
 Write a program that computes the fibonacci numbers up to 50 numbers.
 
+## Secret Number
+
+Write a program that can guess a number chosen by the user (Assume that this number will be between 1 and 100)
+
+## Postal Code
+
+Write a function that determines whether a given string is a Canadian Postal Code or not. Remember that Canadian Postal Codes follow the format "ABA BAB", where A is an upper case letter and B is an integer.
